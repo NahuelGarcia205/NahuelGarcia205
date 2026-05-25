@@ -53,6 +53,9 @@
 
 </div>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=NahuelGarcia205&theme=tokyonight&no-frame=true&row=1&column=6)
 
 <!--
 **NahuelGarcia205/NahuelGarcia205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
