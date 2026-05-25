@@ -43,15 +43,23 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=NahuelGarcia205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"
+  />
 
-![Nahuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahuelGarcia205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NahuelGarcia205&layout=compact&theme=tokyonight&cache_seconds=86400"
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGarcia205&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NahuelGarcia205&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=NahuelGarcia205&theme=tokyonight"
+  />
+</p>
 
 ## 🏆 GitHub Trophies
 
