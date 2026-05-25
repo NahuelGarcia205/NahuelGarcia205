@@ -65,6 +65,11 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=NahuelGarcia205&theme=tokyonight&no-frame=true&row=1&column=6)
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/NahuelGarcia205/NahuelGarcia205/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <!--
 **NahuelGarcia205/NahuelGarcia205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
