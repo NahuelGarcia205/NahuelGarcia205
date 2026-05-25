@@ -41,25 +41,17 @@
 
 ---
 
-## Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=NahuelGarcia205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
+<div align="center">
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGarcia205&layout=compact&theme=tokyonight"
-  />
-</p>
+![Nahuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=NahuelGarcia205&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=NahuelGarcia205&theme=tokyonight"
-  />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGarcia205&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NahuelGarcia205&theme=tokyonight)
+
+</div>
 
 
 <!--
