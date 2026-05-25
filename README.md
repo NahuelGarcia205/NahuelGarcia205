@@ -41,9 +41,11 @@
 
 ---
 
-## 📌 Proyectos
+## Stats
 
-📂 Trabajos prácticos y proyectos académicos desarrollados durante la carrera.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NahuelGarcia205&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelGarcia205&layout=compact&theme=tokyonight)
 
 
 <!--
