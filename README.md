@@ -55,12 +55,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=NahuelGarcia205&theme=tokyonight"
-  />
-</p>
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=NahuelGarcia205&theme=tokyonight&no-frame=true&row=1&column=6)
