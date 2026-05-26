@@ -54,23 +54,9 @@
   />
 </p>
 
-## 🚀 Featured Projects
+## 📈 Activity Graph
 
-<p align="center">
-  <a href="https://github.com/NahuelGarcia205/Api-Gastos-con-FastApi">
-    <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NahuelGarcia205&repo=Api-Gastos-con-FastApi&theme=tokyonight"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/KevinLesama/SL-UNLA-LAB-2025-GRUPO-9">
-    <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KevinLesama&repo=SL-UNLA-LAB-2025-GRUPO-9&theme=tokyonight"
-    />
-  </a>
-</p>
+[![Nahuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NahuelGarcia205&theme=tokyo-night)](https://github.com/NahuelGarcia205)
 
 ## 🐍 Contribution Snake
 
