@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Frontend+Explorer;Systems+Student+at+UNLa" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Systems+Student+at+UNLa;Backend+Developer+with+Java;Learning+Frontend+Technologies;Passionate+about+Programming+and+Concurrency" />
 </p>
 <h1 align="center">Hola 👋, soy Nahuel Garcia</h1>
 
@@ -60,6 +60,8 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=NahuelGarcia205&theme=tokyonight&no-frame=true&row=1&column=6)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NahuelGarcia205&repo=NombreRepo&theme=tokyonight)](...)
 
 ## 🐍 Contribution Snake
 
