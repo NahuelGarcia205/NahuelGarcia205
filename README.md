@@ -54,11 +54,13 @@
   />
 </p>
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Project
 
-![](https://github-profile-trophy.vercel.app/?username=NahuelGarcia205&theme=tokyonight&no-frame=true&row=1&column=6)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NahuelGarcia205&repo=SL-UNLA-LAB-2025-GRUPO-9&theme=tokyonight)](https://github.com/NahuelGarcia205/SL-UNLA-LAB-2025-GRUPO-9)
+<p align="center">
+  <a href="https://github.com/NahuelGarcia205/Api-Gastos-con-FastApi">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NahuelGarcia205&repo=Api-Gastos-con-FastApi&theme=tokyonight" />
+  </a>
+</p>
 
 ## 🐍 Contribution Snake
 
