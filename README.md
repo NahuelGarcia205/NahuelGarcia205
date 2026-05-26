@@ -54,6 +54,8 @@
   />
 </p>
 
+## 🚀 Featured Projects
+
 <p align="center">
   <a href="https://github.com/NahuelGarcia205/Api-Gastos-con-FastApi">
     <img
