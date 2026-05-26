@@ -56,9 +56,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NahuelGarcia205&theme=algolia&no-frame=true&row=1&column=6" />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=NahuelGarcia205&theme=tokyonight&no-frame=true&row=1&column=6)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NahuelGarcia205&repo=SL-UNLA-LAB-2025-GRUPO-9&theme=tokyonight)](https://github.com/NahuelGarcia205/SL-UNLA-LAB-2025-GRUPO-9)
 
