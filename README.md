@@ -50,13 +50,13 @@
 
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NahuelGarcia205&layout=compact&theme=tokyonight&cache_seconds=86400"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NahuelGarcia205&layout=compact&theme=nightowl&cache_seconds=86400"
   />
 </p>
 
 ## 📈 Activity Graph
 
-[![Nahuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NahuelGarcia205&theme=tokyo-night)](https://github.com/NahuelGarcia205)
+[![Nahuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NahuelGarcia205&theme=nightowl)](https://github.com/NahuelGarcia205)
 
 ## 🐍 Contribution Snake
 
