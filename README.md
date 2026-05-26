@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Frontend+Explorer;Systems+Student+at+UNLa" />
+</p>
 <h1 align="center">Hola 👋, soy Nahuel Garcia</h1>
 
 <h3 align="center">
