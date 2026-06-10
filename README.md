@@ -1,22 +1,3 @@
-## 🖥 Terminal
-
-```bash
-nahuel@github:~$ whoami
-Nahuel Garcia
-
-nahuel@github:~$ education
-Licenciatura en Sistemas - UNLa
-
-nahuel@github:~$ current_focus
-Explorando el mundo del desarrollo frontend
-
-nahuel@github:~$ skills
-Java C++ Python Git MySQL
-
-nahuel@github:~$ status
-3rd year student 🚀
-```
-
 <h1 align="center">Hola 👋, soy Nahuel Garcia</h1>
 
 <h3 align="center">
