@@ -41,23 +41,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=NahuelGarcia205&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&cache_seconds=86400"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NahuelGarcia205&layout=compact&theme=nightowl&cache_seconds=86400"
-  />
-</p>
-
-## 📈 Activity Graph
-
-[![Nahuel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NahuelGarcia205&theme=nightowl)](https://github.com/NahuelGarcia205)
-
 ## 🐍 Contribution Snake
 
 <p align="center">
